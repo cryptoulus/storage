@@ -1,0 +1,111 @@
+{
+  "templates": {
+    "daily": {
+      "template": "Today's card is {{cardName}}. It suggests: {{cardMeaning}}. Use this insight to guide your day.",
+      "positions": {
+        "Today": {
+          "placeholder": "{{cardName}}",
+          "explanation": "{{cardMeaning}}"
+        }
+      }
+    },
+    "pastPresentFuture": {
+      "template": "Your reading reveals: In your past, you experienced '{{Past}}'; currently, you are facing '{{Present}}'; and your future holds '{{Future}}'.",
+      "positions": {
+        "Past": {
+          "description": "The past card, {{cardName}}, indicates that {{cardMeaning}}."
+        },
+        "Present": {
+          "description": "The present card, {{cardName}}, reflects that {{cardMeaning}}."
+        },
+        "Future": {
+          "description": "The future card, {{cardName}}, suggests that {{cardMeaning}}."
+        }
+      }
+    },
+    "celtic": {
+      "template": "Celtic Cross Reading:\n1. Present Situation: {{Card1}}\n2. Challenge: {{Card2}}\n3. Foundation: {{Card3}}\n4. Recent Past: {{Card4}}\n5. Possible Future: {{Card5}}\n6. Near Future: {{Card6}}\n7. Self: {{Card7}}\n8. Environment: {{Card8}}\n9. Hopes and Fears: {{Card9}}\n10. Outcome: {{Card10}}",
+      "positions": {
+        "Card1": {
+          "description": "Represents your current situation."
+        },
+        "Card2": {
+          "description": "Shows the main challenge you face."
+        },
+        "Card3": {
+          "description": "Reveals the foundation or underlying issue."
+        },
+        "Card4": {
+          "description": "Reflects recent events that influence you."
+        },
+        "Card5": {
+          "description": "Indicates a possible future development."
+        },
+        "Card6": {
+          "description": "Points to near-future changes."
+        },
+        "Card7": {
+          "description": "Represents your inner self."
+        },
+        "Card8": {
+          "description": "Illustrates your external environment."
+        },
+        "Card9": {
+          "description": "Highlights your hopes and fears."
+        },
+        "Card10": {
+          "description": "Suggests the likely outcome."
+        }
+      }
+    },
+    "relationship": {
+      "template": "Relationship Reading:\nFoundation: {{Foundation}}\nChallenges: {{Challenges}}\nPast Influences: {{Past}}\nFuture Prospects: {{Future}}\nAdvice: {{Advice}}",
+      "positions": {
+        "Foundation": {
+          "description": "The basis or core of your relationship."
+        },
+        "Challenges": {
+          "description": "The obstacles or issues you face."
+        },
+        "Past": {
+          "description": "Past influences affecting the relationship."
+        },
+        "Future": {
+          "description": "Potential future developments."
+        },
+        "Advice": {
+          "description": "Guidance on how to proceed."
+        }
+      }
+    },
+    "compatibility": {
+      "template": "Compatibility Reading:\nYour card: {{YourCard}}\nOther's card: {{OtherCard}}\nSummary: Together, these cards suggest that {{Summary}}.",
+      "positions": {
+        "YourCard": {
+          "description": "Represents your own influence."
+        },
+        "OtherCard": {
+          "description": "Represents the other person's influence."
+        }
+      }
+    }
+  },
+  "general": {
+    "intro": "Welcome to your tarot reading. The cards you draw provide guidance and insight into various aspects of your life.",
+    "conclusion": "Remember, the tarot offers reflections on your circumstances—but you always have the power to shape your destiny."
+  },
+  "rules": {
+    "keywords": {
+      "new beginnings": "Indicates fresh starts and opportunities.",
+      "transformation": "Signifies significant changes or a period of transformation.",
+      "challenge": "Points to obstacles that may need to be overcome.",
+      "love": "Reflects emotional connections and matters of the heart.",
+      "strength": "Emphasizes inner power and resilience."
+    },
+    "combinations": {
+      "The Fool, The Magician": "This combination suggests that you have both the potential and the drive to begin a bold new journey.",
+      "Death, Temperance": "A strong sign that transformation, when balanced with moderation, can lead to profound personal growth.",
+      "The Lovers, Justice": "Indicates that matters of the heart are being weighed with fairness and truth, guiding you toward balanced decisions."
+    }
+  }
+}
