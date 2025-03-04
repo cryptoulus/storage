@@ -1,0 +1,405 @@
+{
+    "Major": [
+      {
+        "name": "The Fool",
+        "meaning": "New beginnings, spontaneity, freedom",
+        "image": "https://i.ibb.co/TMNfFxSz/The-Fool.png"
+      },
+      {
+        "name": "The Magician",
+        "meaning": "Manifestation, resourcefulness, power",
+        "image": "https://i.ibb.co/CKdHVzj4/The-Magician.png"
+      },
+      {
+        "name": "The High Priestess",
+        "meaning": "Intuition, mystery, subconscious mind",
+        "image": "https://i.ibb.co/MDVg6CWF/High-Priestess.png"
+      },
+      {
+        "name": "The Empress",
+        "meaning": "Creativity, fertility, abundance",
+        "image": "https://i.ibb.co/Jjp5fm2X/The-Empress.png"
+      },
+      {
+        "name": "The Emperor",
+        "meaning": "Authority, structure, stability",
+        "image": "https://i.ibb.co/23Fnrx0x/The-Emperor.png"
+      },
+      {
+        "name": "The Hierophant",
+        "meaning": "Spiritual wisdom, tradition, conformity",
+        "image": "https://i.ibb.co/MybGRdxC/Hierophant.png"
+      },
+      {
+        "name": "The Lovers",
+        "meaning": "Love, harmony, relationships",
+        "image": "https://i.ibb.co/0pycbNw1/The-Lovers.png"
+      },
+      {
+        "name": "The Chariot",
+        "meaning": "Willpower, control, direction",
+        "image": "https://i.ibb.co/JWhM19ZD/The-Charriot.png"
+      },
+      {
+        "name": "Strength",
+        "meaning": "Courage, patience, inner strength",
+        "image": "https://i.ibb.co/HfXMFjr6/Strength.png"
+      },
+      {
+        "name": "The Hermit",
+        "meaning": "Introspection, guidance, solitude",
+        "image": "https://i.ibb.co/xKCbG0Ry/The-Hermit.png"
+      },
+      {
+        "name": "Wheel of Fortune",
+        "meaning": "Luck, cycles, change",
+        "image": "https://i.ibb.co/QF53gFSC/The-Wheel2.png"
+      },
+      {
+        "name": "Justice",
+        "meaning": "Fairness, truth, law",
+        "image": "https://i.ibb.co/DfJ75Rgd/Justice.png"
+      },
+      {
+        "name": "The Hanged Man",
+        "meaning": "Pause, surrender, letting go",
+        "image": "https://i.ibb.co/TDhLcm93/Hanged-Man.png"
+      },
+      {
+        "name": "Death",
+        "meaning": "Transformation, endings, new beginnings",
+        "image": "https://i.ibb.co/j9NmnJW7/Death.png"
+      },
+      {
+        "name": "Temperance",
+        "meaning": "Balance, moderation, harmony",
+        "image": "https://i.ibb.co/jkjwPr5y/Temperance.png"
+      },
+      {
+        "name": "The Devil",
+        "meaning": "Bondage, addiction, materialism",
+        "image": "https://i.ibb.co/tpbkFFVd/The-Devil.png"
+      },
+      {
+        "name": "The Tower",
+        "meaning": "Sudden change, upheaval, chaos",
+        "image": "https://i.ibb.co/4RPYQNcm/The-Tower.png"
+      },
+      {
+        "name": "The Star",
+        "meaning": "Hope, inspiration, serenity",
+        "image": "https://i.ibb.co/tMMMCjQJ/The-Star.png"
+      },
+      {
+        "name": "The Moon",
+        "meaning": "Illusion, fear, anxiety",
+        "image": "https://i.ibb.co/CKK1bszf/The-Moon.png"
+      },
+      {
+        "name": "The Sun",
+        "meaning": "Joy, success, positivity",
+        "image": "https://i.ibb.co/jvbBpQr2/The-Sun.png"
+      },
+      {
+        "name": "Judgement",
+        "meaning": "Reflection, reckoning, awakening",
+        "image": "https://i.ibb.co/W4fSQSm2/Judgement.png"
+      },
+      {
+        "name": "The World",
+        "meaning": "Completion, accomplishment, travel",
+        "image": "https://i.ibb.co/C52VyWXQ/the-world.png"
+      }
+    ],
+    "Minor": {
+      "Cups": [
+        {
+          "name": "Ace of Cups",
+          "meaning": "Love, compassion, creativity",
+          "image": "https://i.ibb.co/fdVcsDnB/Cups-1.png"
+        },
+        {
+          "name": "Two of Cups",
+          "meaning": "Unity, partnership, attraction",
+          "image": "https://i.ibb.co/TxRYGVSn/Cups-2.png"
+        },
+        {
+          "name": "Three of Cups",
+          "meaning": "Celebration, friendship, community",
+          "image": "https://i.ibb.co/KpQNMrGH/Cups-3.png"
+        },
+        {
+          "name": "Four of Cups",
+          "meaning": "Apathy, contemplation, reevaluation",
+          "image": "https://i.ibb.co/5hr7SPm9/Cups-4.png"
+        },
+        {
+          "name": "Five of Cups",
+          "meaning": "Loss, regret, disappointment",
+          "image": "https://i.ibb.co/s9LcStqY/Cups-5.png"
+        },
+        {
+          "name": "Six of Cups",
+          "meaning": "Memories, nostalgia, childhood",
+          "image": "https://i.ibb.co/Y7WLx2FL/Cups-6.png"
+        },
+        {
+          "name": "Seven of Cups",
+          "meaning": "Opportunities, choices, illusion",
+          "image": "https://i.ibb.co/Kc57jZcp/Cups-7.png"
+        },
+        {
+          "name": "Eight of Cups",
+          "meaning": "Abandonment, withdrawal, moving on",
+          "image": "https://i.ibb.co/Cst5sbg2/Cups-8.png"
+        },
+        {
+          "name": "Nine of Cups",
+          "meaning": "Contentment, satisfaction, gratitude",
+          "image": "https://i.ibb.co/MkZTjcdF/Cups-9.png"
+        },
+        {
+          "name": "Ten of Cups",
+          "meaning": "Happiness, fulfillment, family",
+          "image": "https://i.ibb.co/Wv5jwF43/Cups-10.png"
+        },
+        {
+          "name": "Page of Cups",
+          "meaning": "Curiosity, creativity, beginnings",
+          "image": "https://i.ibb.co/zVfyccTt/Page-of-Cups.png"
+        },
+        {
+          "name": "Knight of Cups",
+          "meaning": "Romance, charm, imagination",
+          "image": "https://i.ibb.co/h1x8HmzH/Knight-of-Cups.png"
+        },
+        {
+          "name": "Queen of Cups",
+          "meaning": "Compassion, calm, comfort",
+          "image": "https://i.ibb.co/JwsDgLHT/Queen-of-Cups.png"
+        },
+        {
+          "name": "King of Cups",
+          "meaning": "Emotional balance, control, generosity",
+          "image": "https://i.ibb.co/Wpdkh00d/King-of-Cups.png"
+        }
+      ],
+      "Pentacles": [
+        {
+          "name": "Ace of Pentacles",
+          "meaning": "Prosperity, opportunity, new venture",
+          "image": "https://i.ibb.co/zHxZshNp/Pentacles-1.png"
+        },
+        {
+          "name": "Two of Pentacles",
+          "meaning": "Balance, adaptability, prioritization",
+          "image": "https://i.ibb.co/tpLR8NBt/Pentacles-2.png"
+        },
+        {
+          "name": "Three of Pentacles",
+          "meaning": "Teamwork, collaboration, skill",
+          "image": "https://i.ibb.co/NgpqscrB/Pentacles-3.png"
+        },
+        {
+          "name": "Four of Pentacles",
+          "meaning": "Security, control, possession",
+          "image": "https://i.ibb.co/hJFHgkGm/Pentacles-4.png"
+        },
+        {
+          "name": "Five of Pentacles",
+          "meaning": "Isolation, insecurity, financial loss",
+          "image": "https://i.ibb.co/Kx781Pnf/Pentacles-5.png"
+        },
+        {
+          "name": "Six of Pentacles",
+          "meaning": "Charity, generosity, sharing",
+          "image": "https://i.ibb.co/zWxmPHxh/Pentacles-6.png"
+        },
+        {
+          "name": "Seven of Pentacles",
+          "meaning": "Patience, investment, growth",
+          "image": "https://i.ibb.co/FMxRDN4/Pentacles-7.png"
+        },
+        {
+          "name": "Eight of Pentacles",
+          "meaning": "Skill development, apprenticeship",
+          "image": "https://i.ibb.co/Qj9VGtyS/Pentacles-8.png"
+        },
+        {
+          "name": "Nine of Pentacles",
+          "meaning": "Luxury, self-sufficiency, achievement",
+          "image": "https://i.ibb.co/tpNVxhqb/Pentacles-9.png"
+        },
+        {
+          "name": "Ten of Pentacles",
+          "meaning": "Wealth, inheritance, family",
+          "image": "https://i.ibb.co/zhGPX4vv/Pentacles-10.png"
+        },
+        {
+          "name": "Page of Pentacles",
+          "meaning": "Manifestation, study, focus",
+          "image": "https://i.ibb.co/W4gsf6Zg/Page-of-Pentacles.png"
+        },
+        {
+          "name": "Knight of Pentacles",
+          "meaning": "Diligence, responsibility, efficiency",
+          "image": "https://i.ibb.co/wF02Vwd8/Knight-of-Pentacles.png"
+        },
+        {
+          "name": "Queen of Pentacles",
+          "meaning": "Practicality, nurturing, security",
+          "image": "https://i.ibb.co/svd7PdDf/Queen-of-Pentacles.png"
+        },
+        {
+          "name": "King of Pentacles",
+          "meaning": "Abundance, leadership, stability",
+          "image": "https://i.ibb.co/35sCr1JY/King-of-Pentacles.png"
+        }
+      ],
+      "Swords": [
+        {
+          "name": "Ace of Swords",
+          "meaning": "Breakthrough, clarity, sharp mind",
+          "image": "https://i.ibb.co/KpbqktVZ/Swords-1.png"
+        },
+        {
+          "name": "Two of Swords",
+          "meaning": "Indecision, choices, stalemate",
+          "image": "https://i.ibb.co/7dWkCNCQ/Swords-2.png"
+        },
+        {
+          "name": "Three of Swords",
+          "meaning": "Heartbreak, grief, sorrow",
+          "image": "https://i.ibb.co/4nDHcYMQ/Swords-3.png"
+        },
+        {
+          "name": "Four of Swords",
+          "meaning": "Rest, recovery, contemplation",
+          "image": "https://i.ibb.co/dzvqq41/Swords-4.png"
+        },
+        {
+          "name": "Five of Swords",
+          "meaning": "Conflict, tension, defeat",
+          "image": "https://i.ibb.co/chb3grvy/Swords-5.png"
+        },
+        {
+          "name": "Six of Swords",
+          "meaning": "Transition, change, rite of passage",
+          "image": "https://i.ibb.co/8DwLXdhR/Swords-6.png"
+        },
+        {
+          "name": "Seven of Swords",
+          "meaning": "Deception, strategy, betrayal",
+          "image": "https://i.ibb.co/qYqQgntb/Swords-7.png"
+        },
+        {
+          "name": "Eight of Swords",
+          "meaning": "Restriction, imprisonment, fear",
+          "image": "https://i.ibb.co/wFWfN5Pm/Swords-8.png"
+        },
+        {
+          "name": "Nine of Swords",
+          "meaning": "Anxiety, hopelessness, nightmares",
+          "image": "https://i.ibb.co/RGktGhZ0/Swords-9.png"
+        },
+        {
+          "name": "Ten of Swords",
+          "meaning": "Endings, betrayal, collapse",
+          "image": "https://i.ibb.co/8n6jG9GG/Swords-10.png"
+        },
+        {
+          "name": "Page of Swords",
+          "meaning": "Curiosity, vigilance, communication",
+          "image": "https://i.ibb.co/V0FGmcpB/Page-of-Swords.png"
+        },
+        {
+          "name": "Knight of Swords",
+          "meaning": "Ambition, action, focus",
+          "image": "https://i.ibb.co/MxvGs1RC/Knight-of-Swords.png"
+        },
+        {
+          "name": "Queen of Swords",
+          "meaning": "Perception, independence, clarity",
+          "image": "https://i.ibb.co/fzSWh173/Queen-of-Swords.png"
+        },
+        {
+          "name": "King of Swords",
+          "meaning": "Authority, discipline, truth",
+          "image": "https://i.ibb.co/Q3RPwg8R/King-of-Swords.png"
+        }
+      ],
+      "Wands": [
+        {
+          "name": "Ace of Wands",
+          "meaning": "Inspiration, growth, potential",
+          "image": "https://i.ibb.co/prZFhM5N/Wands-1.png"
+        },
+        {
+          "name": "Two of Wands",
+          "meaning": "Planning, decisions, progress",
+          "image": "https://i.ibb.co/fYL7gyYK/Wands-2.png"
+        },
+        {
+          "name": "Three of Wands",
+          "meaning": "Expansion, foresight, opportunities",
+          "image": "https://i.ibb.co/4R10rSzW/Wands-3.png"
+        },
+        {
+          "name": "Four of Wands",
+          "meaning": "Celebration, stability, harmony",
+          "image": "https://i.ibb.co/0pfyMmvB/Wands-4.png"
+        },
+        {
+          "name": "Five of Wands",
+          "meaning": "Competition, conflict, rivalry",
+          "image": "https://i.ibb.co/nNXYssXX/Wands-5.png"
+        },
+        {
+          "name": "Six of Wands",
+          "meaning": "Victory, success, recognition",
+          "image": "https://i.ibb.co/4n4QNdBB/Wands-6.png"
+        },
+        {
+          "name": "Seven of Wands",
+          "meaning": "Perseverance, defense, resilience",
+          "image": "https://i.ibb.co/4k61mmD/Wands-7.png"
+        },
+        {
+          "name": "Eight of Wands",
+          "meaning": "Speed, movement, action",
+          "image": "https://i.ibb.co/DgMGns7t/Wands-8.png"
+        },
+        {
+          "name": "Nine of Wands",
+          "meaning": "Courage, persistence, test of faith",
+          "image": "https://i.ibb.co/KxWpx00p/Wands-9.png"
+        },
+        {
+          "name": "Ten of Wands",
+          "meaning": "Burden, responsibility, hard work",
+          "image": "https://i.ibb.co/hR5N0nN9/Wands-10.png"
+        },
+        {
+          "name": "Page of Wands",
+          "meaning": "Exploration, enthusiasm, discovery",
+          "image": "https://i.ibb.co/tpJbf6sV/Page-of-Wands.png"
+        },
+        {
+          "name": "Knight of Wands",
+          "meaning": "Energy, passion, adventure",
+          "image": "https://i.ibb.co/spW4zCdN/Knight-of-Wands.png"
+        },
+        {
+          "name": "Queen of Wands",
+          "meaning": "Courage, confidence, determination",
+          "image": "https://i.ibb.co/WND6gfhw/Queen-of-Wands.png"
+        },
+        {
+          "name": "King of Wands",
+          "meaning": "Leadership, vision, honor",
+          "image": "https://i.ibb.co/mV27dDGx/King-of-Wands.png"
+        }
+      ]
+    }
+  }
+  
