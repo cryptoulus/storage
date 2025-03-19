@@ -1198,6 +1198,25 @@
         "tags": "test, cake, mushroom, hello, butterfly",
         "description": "This is a test to see if reversed description works well"
       }
+    },
+    {
+      "name": "Love",
+      "image": "https://i.ibb.co/TD4Dxwwq/The-Lovers-Tarot-Card-min.png",
+      "represents": {
+        "planet": "test",
+        "zodiac": "test",
+        "element": "test"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "test",
+        "description": "test"
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "test",
+        "description": "test"
+      }
     }
   ]
 }
