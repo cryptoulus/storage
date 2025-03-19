@@ -1236,6 +1236,25 @@
         "tags": "tset",
         "description": "setset"
       }
+    },
+    {
+      "name": "trans",
+      "image": "https://i.ibb.co/xSR79gnt/tarot-card-the-star-cut-out-7a46b3.png",
+      "represents": {
+        "planet": "test",
+        "zodiac": "test",
+        "element": "test"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "tset",
+        "description": "estse"
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "tse",
+        "description": "tsetset"
+      }
     }
   ]
 }
