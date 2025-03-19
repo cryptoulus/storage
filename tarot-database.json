@@ -1217,6 +1217,25 @@
         "tags": "test",
         "description": "test"
       }
+    },
+    {
+      "name": "haha",
+      "image": "https://i.ibb.co/4Z07MF3f/testcard.jpg",
+      "represents": {
+        "planet": "testtest",
+        "zodiac": "setest",
+        "element": "estset"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "set",
+        "description": "setsetse"
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "tset",
+        "description": "setset"
+      }
     }
   ]
 }
