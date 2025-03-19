@@ -1255,6 +1255,25 @@
         "tags": "tse",
         "description": "tsetset"
       }
+    },
+    {
+      "name": "tesrsdfsd",
+      "image": "https://i.ibb.co/gK1cFGB/Card-Design-6-v2.png",
+      "represents": {
+        "planet": "test",
+        "zodiac": "sdf",
+        "element": "sdfsdf"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "sdfs",
+        "description": "dfsdf"
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "sdf",
+        "description": "sdfsdf"
+      }
     }
   ]
 }
