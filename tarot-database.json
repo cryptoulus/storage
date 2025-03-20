@@ -2,9 +2,10 @@
   "Major": [
     {
       "name": "The Fool",
-      "image": "https://i.ibb.co/TMNfFxSz/The-Fool.png",
+      "image": "https://i.ibb.co/8nWXJgWP/The-Fool.png",
       "represents": {
         "planet": "Uranus",
+        "zodiac": "",
         "element": "Air"
       },
       "upright": {
@@ -20,9 +21,10 @@
     },
     {
       "name": "The Magician",
-      "image": "https://i.ibb.co/CKdHVzj4/The-Magician.png",
+      "image": "https://i.ibb.co/vxsgxRRn/The-Magician.png",
       "represents": {
         "planet": "Mercury",
+        "zodiac": "",
         "element": "Air"
       },
       "upright": {
@@ -38,9 +40,10 @@
     },
     {
       "name": "The High Priestess",
-      "image": "https://i.ibb.co/6JXKHXGV/High-Priestess.png",
+      "image": "https://i.ibb.co/NgMgntb1/High-Priestess.png",
       "represents": {
         "planet": "Moon",
+        "zodiac": "",
         "element": "Water"
       },
       "upright": {
@@ -56,9 +59,10 @@
     },
     {
       "name": "The Empress",
-      "image": "https://i.ibb.co/Jjp5fm2X/The-Empress.png",
+      "image": "https://i.ibb.co/Vc1PTyDD/The-Empress.png",
       "represents": {
         "planet": "Venus",
+        "zodiac": "",
         "element": "Earth"
       },
       "upright": {
@@ -74,8 +78,9 @@
     },
     {
       "name": "The Emperor",
-      "image": "https://i.ibb.co/23Fnrx0x/The-Emperor.png",
+      "image": "https://i.ibb.co/CXcT4q7/The-Emperor.png",
       "represents": {
+        "planet": "",
         "zodiac": "Aries",
         "element": "Fire"
       },
@@ -92,8 +97,9 @@
     },
     {
       "name": "The Hierophant",
-      "image": "https://i.ibb.co/Lh6DZVcv/Hierophant.png",
+      "image": "https://i.ibb.co/mVzbStRS/Hierophant.png",
       "represents": {
+        "planet": "",
         "zodiac": "Taurus",
         "element": "Earth"
       },
@@ -110,8 +116,9 @@
     },
     {
       "name": "The Lovers",
-      "image": "https://i.ibb.co/0pycbNw1/The-Lovers.png",
+      "image": "https://i.ibb.co/kFswbcn/The-Lovers.png",
       "represents": {
+        "planet": "",
         "zodiac": "Gemini",
         "element": "Air"
       },
@@ -128,8 +135,9 @@
     },
     {
       "name": "The Chariot",
-      "image": "https://i.ibb.co/JWhM19ZD/The-Charriot.png",
+      "image": "https://i.ibb.co/pqMfTR4/The-Charriot.png",
       "represents": {
+        "planet": "",
         "zodiac": "Cancer",
         "element": "Water"
       },
@@ -146,8 +154,9 @@
     },
     {
       "name": "Strength",
-      "image": "https://i.ibb.co/HfXMFjr6/Strength.png",
+      "image": "https://i.ibb.co/9kcM2zXB/Strength.png",
       "represents": {
+        "planet": "",
         "zodiac": "Leo",
         "element": "Fire"
       },
@@ -164,8 +173,9 @@
     },
     {
       "name": "The Hermit",
-      "image": "https://i.ibb.co/xKCbG0Ry/The-Hermit.png",
+      "image": "https://i.ibb.co/vvs4K0qy/The-Hermit.png",
       "represents": {
+        "planet": "",
         "zodiac": "Virgo",
         "element": "Earth"
       },
@@ -182,9 +192,10 @@
     },
     {
       "name": "Wheel of Fortune",
-      "image": "https://i.ibb.co/QF53gFSC/The-Wheel2.png",
+      "image": "https://i.ibb.co/HTRKLG10/The-Wheel2.png",
       "represents": {
         "planet": "Jupiter",
+        "zodiac": "",
         "element": "Fire"
       },
       "upright": {
@@ -200,8 +211,9 @@
     },
     {
       "name": "Justice",
-      "image": "https://i.ibb.co/DfJ75Rgd/Justice.png",
+      "image": "https://i.ibb.co/wF5NFdbY/Justice.png",
       "represents": {
+        "planet": "",
         "zodiac": "Libra",
         "element": "Air"
       },
@@ -218,9 +230,10 @@
     },
     {
       "name": "The Hanged Man",
-      "image": "https://i.ibb.co/TDhLcm93/Hanged-Man.png",
+      "image": "https://i.ibb.co/ch4vNJSJ/Hanged-Man.png",
       "represents": {
         "planet": "Neptune",
+        "zodiac": "",
         "element": "Water"
       },
       "upright": {
@@ -236,8 +249,9 @@
     },
     {
       "name": "Death",
-      "image": "https://i.ibb.co/j9NmnJW7/Death.png",
+      "image": "https://i.ibb.co/zTmCgnnL/Death.png",
       "represents": {
+        "planet": "",
         "zodiac": "Scorpio",
         "element": "Water"
       },
@@ -254,8 +268,9 @@
     },
     {
       "name": "Temperance",
-      "image": "https://i.ibb.co/jkjwPr5y/Temperance.png",
+      "image": "https://i.ibb.co/Xf4zd47P/Temperance.png",
       "represents": {
+        "planet": "",
         "zodiac": "Sagittarius",
         "element": "Fire"
       },
@@ -272,8 +287,9 @@
     },
     {
       "name": "The Devil",
-      "image": "https://i.ibb.co/tpbkFFVd/The-Devil.png",
+      "image": "https://i.ibb.co/XrSKQR4G/The-Devil.png",
       "represents": {
+        "planet": "",
         "zodiac": "Capricorn",
         "element": "Earth"
       },
@@ -290,9 +306,10 @@
     },
     {
       "name": "The Tower",
-      "image": "https://i.ibb.co/4RPYQNcm/The-Tower.png",
+      "image": "https://i.ibb.co/8DPdC7ZZ/The-Tower.png",
       "represents": {
         "planet": "Mars",
+        "zodiac": "",
         "element": "Fire"
       },
       "upright": {
@@ -308,8 +325,9 @@
     },
     {
       "name": "The Star",
-      "image": "https://i.ibb.co/tMMMCjQJ/The-Star.png",
+      "image": "https://i.ibb.co/NgMNNChv/The-Star.png",
       "represents": {
+        "planet": "",
         "zodiac": "Aquarius",
         "element": "Air"
       },
@@ -326,8 +344,9 @@
     },
     {
       "name": "The Moon",
-      "image": "https://i.ibb.co/CKK1bszf/The-Moon.png",
+      "image": "https://i.ibb.co/FkcJSYpN/The-Moon.png",
       "represents": {
+        "planet": "",
         "zodiac": "Pisces",
         "element": "Water"
       },
@@ -344,9 +363,10 @@
     },
     {
       "name": "The Sun",
-      "image": "https://i.ibb.co/jvbBpQr2/The-Sun.png",
+      "image": "https://i.ibb.co/0pmZwBh6/The-Sun.png",
       "represents": {
         "planet": "Sun",
+        "zodiac": "",
         "element": "Fire"
       },
       "upright": {
@@ -362,9 +382,10 @@
     },
     {
       "name": "Judgement",
-      "image": "https://i.ibb.co/W4fSQSm2/Judgement.png",
+      "image": "https://i.ibb.co/0RkQsgVR/Judgement.png",
       "represents": {
         "planet": "Pluto",
+        "zodiac": "",
         "element": "Fire"
       },
       "upright": {
@@ -380,9 +401,10 @@
     },
     {
       "name": "The World",
-      "image": "https://i.ibb.co/C52VyWXQ/the-world.png",
+      "image": "https://i.ibb.co/KpLNHyhS/the-world.png",
       "represents": {
         "planet": "Saturn",
+        "zodiac": "",
         "element": "Earth"
       },
       "upright": {
@@ -400,8 +422,10 @@
   "Minor": [
     {
       "name": "Ace of Swords",
-      "image": "https://i.ibb.co/KpbqktVZ/Swords-1.png",
+      "image": "https://i.ibb.co/qLDGyYNk/Swords-1.png",
       "represents": {
+        "planet": "",
+        "zodiac": "",
         "element": "Air"
       },
       "upright": {
@@ -417,7 +441,7 @@
     },
     {
       "name": "Two of Swords",
-      "image": "https://i.ibb.co/7dWkCNCQ/Swords-2.png",
+      "image": "https://i.ibb.co/3Ys7vCZW/Swords-2.png",
       "represents": {
         "planet": "Moon",
         "zodiac": "Libra",
@@ -436,7 +460,7 @@
     },
     {
       "name": "Three of Swords",
-      "image": "https://i.ibb.co/4nDHcYMQ/Swords-3.png",
+      "image": "https://i.ibb.co/jvSDRh4m/Swords-3.png",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Libra",
@@ -455,7 +479,7 @@
     },
     {
       "name": "Four of Swords",
-      "image": "https://i.ibb.co/dzvqq41/Swords-4.png",
+      "image": "https://i.ibb.co/RksDQ1Bn/Swords-4.png",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Libra",
@@ -474,7 +498,7 @@
     },
     {
       "name": "Five of Swords",
-      "image": "https://i.ibb.co/chb3grvy/Swords-5.png",
+      "image": "https://i.ibb.co/ZpHf5g55/Swords-5.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Aquarius",
@@ -493,7 +517,7 @@
     },
     {
       "name": "Six of Swords",
-      "image": "https://i.ibb.co/8DwLXdhR/Swords-6.png",
+      "image": "https://i.ibb.co/LBxPvh9/Swords-6.png",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Aquarius",
@@ -512,7 +536,7 @@
     },
     {
       "name": "Seven of Swords",
-      "image": "https://i.ibb.co/qYqQgntb/Swords-7.png",
+      "image": "https://i.ibb.co/JFsJvbnf/Swords-7.png",
       "represents": {
         "planet": "Moon",
         "zodiac": "Aquarius",
@@ -531,7 +555,7 @@
     },
     {
       "name": "Eight of Swords",
-      "image": "https://i.ibb.co/wFWfN5Pm/Swords-8.png",
+      "image": "https://i.ibb.co/CKwgvJy6/Swords-8.png",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Gemini",
@@ -550,7 +574,7 @@
     },
     {
       "name": "Nine of Swords",
-      "image": "https://i.ibb.co/RGktGhZ0/Swords-9.png",
+      "image": "https://i.ibb.co/JWqd3pzs/Swords-9.png",
       "represents": {
         "planet": "Mars",
         "zodiac": "Gemini",
@@ -569,7 +593,7 @@
     },
     {
       "name": "Ten of Swords",
-      "image": "https://i.ibb.co/8n6jG9GG/Swords-10.png",
+      "image": "https://i.ibb.co/fKKHvHB/Swords-10.png",
       "represents": {
         "planet": "Sun",
         "zodiac": "Gemini",
@@ -588,8 +612,9 @@
     },
     {
       "name": "Page of Swords",
-      "image": "https://i.ibb.co/V0FGmcpB/Page-of-Swords.png",
+      "image": "https://i.ibb.co/MDrZsnxC/Page-of-Swords.png",
       "represents": {
+        "planet": "",
         "zodiac": "Capricorn, Pisces",
         "element": "Air"
       },
@@ -606,8 +631,9 @@
     },
     {
       "name": "Knight of Swords",
-      "image": "https://i.ibb.co/MxvGs1RC/Knight-of-Swords.png",
+      "image": "https://i.ibb.co/TdSpY9Z/Knight-of-Swords.png",
       "represents": {
+        "planet": "",
         "zodiac": "Gemini, Taurus",
         "element": "Air"
       },
@@ -624,8 +650,9 @@
     },
     {
       "name": "Queen of Swords",
-      "image": "https://i.ibb.co/fzSWh173/Queen-of-Swords.png",
+      "image": "https://i.ibb.co/5hSJ3wbQ/Queen-of-Swords.png",
       "represents": {
+        "planet": "",
         "zodiac": "Libra, Virgo",
         "element": "Air"
       },
@@ -642,8 +669,9 @@
     },
     {
       "name": "King of Swords",
-      "image": "https://i.ibb.co/Q3RPwg8R/King-of-Swords.png",
+      "image": "https://i.ibb.co/BKZdPRM1/King-of-Swords.png",
       "represents": {
+        "planet": "",
         "zodiac": "Aquarius, Capricorn",
         "element": "Air"
       },
@@ -660,8 +688,10 @@
     },
     {
       "name": "Ace of Cups",
-      "image": "https://i.ibb.co/fdVcsDnB/Cups-1.png",
+      "image": "https://i.ibb.co/hRmJcK1S/Cups-1.png",
       "represents": {
+        "planet": "",
+        "zodiac": "",
         "element": "Water"
       },
       "upright": {
@@ -677,7 +707,7 @@
     },
     {
       "name": "Two of Cups",
-      "image": "https://i.ibb.co/TxRYGVSn/Cups-2.png",
+      "image": "https://i.ibb.co/prWHHzgk/Cups-2.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Cancer",
@@ -696,7 +726,7 @@
     },
     {
       "name": "Three of Cups",
-      "image": "https://i.ibb.co/KpQNMrGH/Cups-3.png",
+      "image": "https://i.ibb.co/TMrs1XRr/Cups-3.png",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Cancer",
@@ -715,7 +745,7 @@
     },
     {
       "name": "Four of Cups",
-      "image": "https://i.ibb.co/5hr7SPm9/Cups-4.png",
+      "image": "https://i.ibb.co/20CmFC7z/Cups-4.png",
       "represents": {
         "planet": "Moon",
         "zodiac": "Cancer",
@@ -734,7 +764,7 @@
     },
     {
       "name": "Five of Cups",
-      "image": "https://i.ibb.co/s9LcStqY/Cups-5.png",
+      "image": "https://i.ibb.co/fYxxVX5G/Cups-5.png",
       "represents": {
         "planet": "Mars",
         "zodiac": "Scorpio",
@@ -753,7 +783,7 @@
     },
     {
       "name": "Six of Cups",
-      "image": "https://i.ibb.co/Y7WLx2FL/Cups-6.png",
+      "image": "https://i.ibb.co/5W61k3Bb/Cups-6.png",
       "represents": {
         "planet": "Sun",
         "zodiac": "Scorpio",
@@ -772,7 +802,7 @@
     },
     {
       "name": "Seven of Cups",
-      "image": "https://i.ibb.co/Kc57jZcp/Cups-7.png",
+      "image": "https://i.ibb.co/wNdhvjZM/Cups-7.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Scorpio",
@@ -791,7 +821,7 @@
     },
     {
       "name": "Eight of Cups",
-      "image": "https://i.ibb.co/Cst5sbg2/Cups-8.png",
+      "image": "https://i.ibb.co/gZRdt1dX/Cups-8.png",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Pisces",
@@ -810,7 +840,7 @@
     },
     {
       "name": "Nine of Cups",
-      "image": "https://i.ibb.co/MkZTjcdF/Cups-9.png",
+      "image": "https://i.ibb.co/Z69rBmx6/Cups-9.png",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Pisces",
@@ -829,7 +859,7 @@
     },
     {
       "name": "Ten of Cups",
-      "image": "https://i.ibb.co/Wv5jwF43/Cups-10.png",
+      "image": "https://i.ibb.co/hxz3PftK/Cups-10.png",
       "represents": {
         "planet": "Mars",
         "zodiac": "Pisces",
@@ -848,8 +878,9 @@
     },
     {
       "name": "Page of Cups",
-      "image": "https://i.ibb.co/zVfyccTt/Page-of-Cups.png",
+      "image": "https://i.ibb.co/8L72Kh02/Page-of-Cups.png",
       "represents": {
+        "planet": "",
         "zodiac": "Libra, Sagittarius",
         "element": "Water"
       },
@@ -866,8 +897,9 @@
     },
     {
       "name": "Knight of Cups",
-      "image": "https://i.ibb.co/h1x8HmzH/Knight-of-Cups.png",
+      "image": "https://i.ibb.co/nNCs88Tm/Knight-of-Cups.png",
       "represents": {
+        "planet": "",
         "zodiac": "Pisces, Aquarius",
         "element": "Water"
       },
@@ -884,8 +916,9 @@
     },
     {
       "name": "Queen of Cups",
-      "image": "https://i.ibb.co/twMs7D3Q/Queen-of-Cups.png",
+      "image": "https://i.ibb.co/397gvvhL/Queen-of-Cups.png",
       "represents": {
+        "planet": "",
         "zodiac": "Cancer, Gemini",
         "element": "Water"
       },
@@ -902,8 +935,9 @@
     },
     {
       "name": "King of Cups",
-      "image": "https://i.ibb.co/Wpdkh00d/King-of-Cups.png",
+      "image": "https://i.ibb.co/4nGbhrWF/King-of-Cups.png",
       "represents": {
+        "planet": "",
         "zodiac": "Scorpio, Libra",
         "element": "Water"
       },
@@ -920,8 +954,10 @@
     },
     {
       "name": "Ace of Wands",
-      "image": "https://i.ibb.co/prZFhM5N/Wands-1.png",
+      "image": "https://i.ibb.co/xtHqdDHn/Wands-1.png",
       "represents": {
+        "planet": "",
+        "zodiac": "",
         "element": "Fire"
       },
       "upright": {
@@ -937,7 +973,7 @@
     },
     {
       "name": "Two of Wands",
-      "image": "https://i.ibb.co/fYL7gyYK/Wands-2.png",
+      "image": "https://i.ibb.co/DHwXCDdf/Wands-2.png",
       "represents": {
         "planet": "Mars",
         "zodiac": "Aries",
@@ -956,7 +992,7 @@
     },
     {
       "name": "Three of Wands",
-      "image": "https://i.ibb.co/4R10rSzW/Wands-3.png",
+      "image": "https://i.ibb.co/JFS2TsdF/Wands-3.png",
       "represents": {
         "planet": "Sun",
         "zodiac": "Aries",
@@ -975,7 +1011,7 @@
     },
     {
       "name": "Four of Wands",
-      "image": "https://i.ibb.co/0pfyMmvB/Wands-4.png",
+      "image": "https://i.ibb.co/MDGX0jMD/Wands-4.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Aries",
@@ -994,7 +1030,7 @@
     },
     {
       "name": "Five of Wands",
-      "image": "https://i.ibb.co/nNXYssXX/Wands-5.png",
+      "image": "https://i.ibb.co/RGKxP0bR/Wands-5.png",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Leo",
@@ -1013,7 +1049,7 @@
     },
     {
       "name": "Six of Wands",
-      "image": "https://i.ibb.co/4n4QNdBB/Wands-6.png",
+      "image": "https://i.ibb.co/vvwm51zJ/Wands-6.png",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Leo",
@@ -1032,7 +1068,7 @@
     },
     {
       "name": "Seven of Wands",
-      "image": "https://i.ibb.co/4k61mmD/Wands-7.png",
+      "image": "https://i.ibb.co/MxCQYB9T/Wands-7.png",
       "represents": {
         "planet": "Mars",
         "zodiac": "Leo",
@@ -1051,7 +1087,7 @@
     },
     {
       "name": "Eight of Wands",
-      "image": "https://i.ibb.co/DgMGns7t/Wands-8.png",
+      "image": "https://i.ibb.co/HL3q1Srb/Wands-8.png",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Sagittarius",
@@ -1070,7 +1106,7 @@
     },
     {
       "name": "Nine of Wands",
-      "image": "https://i.ibb.co/KxWpx00p/Wands-9.png",
+      "image": "https://i.ibb.co/vFc6ZK6/Wands-9.png",
       "represents": {
         "planet": "Moon",
         "zodiac": "Sagittarius",
@@ -1089,7 +1125,7 @@
     },
     {
       "name": "Ten of Wands",
-      "image": "https://i.ibb.co/hR5N0nN9/Wands-10.png",
+      "image": "https://i.ibb.co/JW65cjrm/Wands-10.png",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Sagittarius",
@@ -1108,8 +1144,9 @@
     },
     {
       "name": "Page of Wands",
-      "image": "https://i.ibb.co/tpJbf6sV/Page-of-Wands.png",
+      "image": "https://i.ibb.co/VWww2GQY/Page-of-Wands.png",
       "represents": {
+        "planet": "",
         "zodiac": "Cancer, Virgo",
         "element": "Fire"
       },
@@ -1126,8 +1163,9 @@
     },
     {
       "name": "Knight of Wands",
-      "image": "https://i.ibb.co/spW4zCdN/Knight-of-Wands.png",
+      "image": "https://i.ibb.co/JjW8dMF5/Knight-of-Wands.png",
       "represents": {
+        "planet": "",
         "zodiac": "Sagittarius, Scorpio",
         "element": "Fire"
       },
@@ -1144,8 +1182,9 @@
     },
     {
       "name": "Queen of Wands",
-      "image": "https://i.ibb.co/WND6gfhw/Queen-of-Wands.png",
+      "image": "https://i.ibb.co/qLSVWPFp/Queen-of-Wands.png",
       "represents": {
+        "planet": "",
         "zodiac": "Aries, Pisces",
         "element": "Fire"
       },
@@ -1162,8 +1201,9 @@
     },
     {
       "name": "King of Wands",
-      "image": "https://i.ibb.co/mV27dDGx/King-of-Wands.png",
+      "image": "https://i.ibb.co/4gjM1pTb/King-of-Wands.png",
       "represents": {
+        "planet": "",
         "zodiac": "Leo, Cancer",
         "element": "Fire"
       },
@@ -1177,7 +1217,293 @@
         "tags": "Impulsiveness, dictatorial, lack of discipline, recklessness, autocratic, disorder, instability, inconsistency",
         "description": "The King of Wands warns of uncontrolled ambition or dictatorial behavior that undermines true leadership."
       }
+    },
+    {
+      "name": "Ace of Pentacles",
+      "image": "https://i.ibb.co/XxHf3mWt/Pentacles-1.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Prosperity, opportunity, new venture, abundance, success, growth, potential, stability",
+        "description": "The Ace of Pentacles symbolizes a promising new beginning in the realm of material or financial prosperity."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Missed opportunity, instability, loss, decline, setback, insecurity, failure, deficit",
+        "description": "The Ace of Pentacles warns of lost opportunities or instability in your financial or material world."
+      }
+    },
+    {
+      "name": "Two of Pentacles",
+      "image": "https://i.ibb.co/wFbZzVN0/Pentacles-2.png",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "Capricorn",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Balance, adaptability, prioritization, flexibility, juggling, coordination, efficiency, resourcefulness",
+        "description": "The Two of Pentacles shows that you are juggling responsibilities with adaptability and a sense of balance."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Overwhelm, disorganization, imbalance, chaos, mismanagement, disorder, confusion, instability",
+        "description": "The Two of Pentacles indicates struggles with managing multiple demands, leading to imbalance."
+      }
+    },
+    {
+      "name": "Three of Pentacles",
+      "image": "https://i.ibb.co/yBxH4rST/Pentacles-3.png",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Capricorn",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Teamwork, collaboration, skill, cooperation, craftsmanship, synergy, competence, integration",
+        "description": "The Three of Pentacles celebrates collaboration, craftsmanship, and the successful application of skills in a team setting."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of cooperation, poor planning, disunity, miscommunication, inefficiency, fragmentation, disorganization, setbacks",
+        "description": "The Three of Pentacles may suggest challenges in working with others or ineffective planning."
+      }
+    },
+    {
+      "name": "Four of Pentacles",
+      "image": "https://i.ibb.co/hxd4bF2V/Pentacles-4.png",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Capricorn",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Security, control, possession, stability, conservation, protection, accumulation, discipline",
+        "description": "The Four of Pentacles reflects a strong desire for stability and control over your material world."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Greed, insecurity, possessiveness, avarice, selfishness, hoarding, isolation, rigidity",
+        "description": "The Four of Pentacles warns of an excessive focus on material security that can lead to isolation or greed."
+      }
+    },
+    {
+      "name": "Five of Pentacles",
+      "image": "https://i.ibb.co/TD8G2pXP/Pentacles-5.png",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Taurus",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Isolation, insecurity, financial loss, abandonment, hardship, poverty, struggle, deprivation",
+        "description": "The Five of Pentacles often indicates a period of financial or material hardship, leaving you feeling isolated."
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "Recovery, improvement, resourcefulness, renewal, rebuilding, resilience, aid, revival",
+        "description": "The Five of Pentacles offers a sign of recovery and the possibility of finding help in difficult times."
+      }
+    },
+    {
+      "name": "Six of Pentacles",
+      "image": "https://i.ibb.co/gLKkvD7j/Pentacles-6.png",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "Taurus",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Charity, generosity, sharing, kindness, balance, support, giving, compassion",
+        "description": "The Six of Pentacles represents the balance between giving and receiving, highlighting generosity and support."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Inequality, debt, selfishness, imbalance, disparity, exploitation, shortage, mismanagement",
+        "description": "The Six of Pentacles warns of imbalances in give-and-take, possibly indicating selfishness or financial strain."
+      }
+    },
+    {
+      "name": "Seven of Pentacles",
+      "image": "https://i.ibb.co/ymnPxhCG/Pentacles-7.png",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "Taurus",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Patience, investment, growth, persistence, cultivation, planning, progress, diligence",
+        "description": "The Seven of Pentacles encourages patience and steady investment, suggesting that your efforts will eventually yield rewards."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of progress, impatience, discouragement, frustration, stagnation, discontent, hasty, withdrawal",
+        "description": "The Seven of Pentacles may indicate impatience or frustration over slow progress, urging you to reassess your strategies."
+      }
+    },
+    {
+      "name": "Eight of Pentacles",
+      "image": "https://i.ibb.co/1fnsnLyS/Pentacles-8.png",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Virgo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Skill development, apprenticeship, diligence, craftsmanship, focus, persistence, learning, refinement",
+        "description": "The Eight of Pentacles represents dedicated work and the mastery of a craft, emphasizing learning and refinement."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of focus, mediocrity, burnout, distraction, underachievement, fatigue, stagnation, sloth",
+        "description": "The Eight of Pentacles warns of losing focus or burning out due to overwork without meaningful progress."
+      }
+    },
+    {
+      "name": "Nine of Pentacles",
+      "image": "https://i.ibb.co/XkCKRrgq/Pentacles-9.png",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Virgo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Luxury, self-sufficiency, achievement, independence, elegance, reward, comfort, success",
+        "description": "The Nine of Pentacles celebrates the rewards of hard work, independence, and enjoying the fruits of your labor."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Overindulgence, isolation, financial setbacks, excess, imbalance, misfortune, disconnection, instability",
+        "description": "The Nine of Pentacles may signal that material success is overshadowed by isolation or excess."
+      }
+    },
+    {
+      "name": "Ten of Pentacles",
+      "image": "https://i.ibb.co/jvBt6zQp/Pentacles-10.png",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Virgo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Wealth, inheritance, family, legacy, stability, prosperity, tradition, security",
+        "description": "The Ten of Pentacles represents the culmination of financial stability, legacy, and family security."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Family conflict, financial instability, loss, disruption, discord, breakdown, uncertainty, struggle",
+        "description": "The Ten of Pentacles warns of disruptions in family or financial matters that undermine long-term security."
+      }
+    },
+    {
+      "name": "Page of Pentacles",
+      "image": "https://i.ibb.co/XxqtBkTQ/Page-of-Pentacles.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "Aries, Gemini",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Manifestation, study, focus, potential, growth, learning, ambition, opportunity",
+        "description": "The Page of Pentacles is a messenger of new opportunities and encourages you to study and harness your potential for success."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Lack of progress, distraction, immaturity, hesitation, confusion, inexperience, delay, disarray",
+        "description": "The Page of Pentacles can indicate a lack of focus or premature actions that hinder your growth."
+      }
+    },
+    {
+      "name": "Knight of Pentacles",
+      "image": "https://i.ibb.co/wZbkS76W/Knight-of-Pentacles.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "Virgo, Leo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Diligence, responsibility, efficiency, steadfast, methodical, hardworking, reliable, pragmatic",
+        "description": "The Knight of Pentacles embodies hard work, practicality, and persistence, urging you to stay steady on your path."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Stubbornness, laziness, inflexibility, procrastination, rigidity, indolence, passivity, inertia",
+        "description": "The Knight of Pentacles may warn of becoming too rigid or even lazy, impeding progress."
+      }
+    },
+    {
+      "name": "Queen of Pentacles",
+      "image": "https://i.ibb.co/xS7d6ykv/Queen-of-Pentacles.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "Capricorn, Sagittarius",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Practicality, nurturing, security, stability, warmth, resourcefulness, care, abundance",
+        "description": "The Queen of Pentacles is a nurturing figure who combines practicality with a caring nature to create a secure environment."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Overbearing, materialistic, neglectful, domineering, selfish, inconsiderate, rigid, unbalanced",
+        "description": "The Queen of Pentacles might indicate a focus on material matters to the detriment of emotional or personal care."
+      }
+    },
+    {
+      "name": "King of Pentacles",
+      "image": "https://i.ibb.co/KxYYLqD5/King-of-Pentacles.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "Taurus, Aries",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Abundance, leadership, stability, prosperity, authority, success, solidity, reliability",
+        "description": "The King of Pentacles represents success, financial security, and a commanding presence in the material realm."
+      },
+      "reversed": {
+        "yesno": "No",
+        "tags": "Tyranny, stubbornness, poor financial decisions, mismanagement, rigidity, avarice, risk, imprudence",
+        "description": "The King of Pentacles warns of mismanagement of resources or an overemphasis on material control."
+      }
     }
   ],
-  "Oracle": []
+  "Oracle": [
+    {
+      "name": "Bean",
+      "image": "https://i.ibb.co/zTXRjk3M/P8153827-b-v8-aa.jpg",
+      "represents": {
+        "planet": "Earth",
+        "zodiac": "Leo",
+        "element": "Awesome, sexy, teddy, bean"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "hello, poop, what is your name, so, whats new",
+        "description": "This is a test to see if upright description works well"
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "test, cake, mushroom, hello, butterfly",
+        "description": "This is a test to see if reversed description works well"
+      }
+    }
+  ]
 }
