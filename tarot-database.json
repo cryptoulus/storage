@@ -1485,25 +1485,5 @@
       }
     }
   ],
-  "Oracle": [
-    {
-      "name": "Bean",
-      "image": "https://i.ibb.co/zTXRjk3M/P8153827-b-v8-aa.jpg",
-      "represents": {
-        "planet": "Earth",
-        "zodiac": "Leo",
-        "element": "Awesome, sexy, teddy, bean"
-      },
-      "upright": {
-        "yesno": "Yes",
-        "tags": "hello, poop, what is your name, so, whats new",
-        "description": "This is a test to see if upright description works well"
-      },
-      "reversed": {
-        "yesno": "Yes",
-        "tags": "test, cake, mushroom, hello, butterfly",
-        "description": "This is a test to see if reversed description works well"
-      }
-    }
-  ]
+  "Oracle": []
 }
